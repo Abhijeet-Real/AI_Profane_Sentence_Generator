@@ -8,6 +8,7 @@ As language evolves, the need to filter or generate profane content becomes incr
 # What?
 The Profane Sentence Generator is a Python program designed to create profane sentences using a matrix of words. Here's what it does:
 
+	Excel Import:Import matrix template and marking of profane column from an excel file.
 	Matrix-based Sentence Generation: The program utilizes a matrix of words where each row represents a sentence or partial sentence. By combining words from different rows, it creates profane sentences.
 	Profanity Marking: You can mark columns in the matrix as profane, indicating which words should be considered profane. This allows for the generation of sentences with profanity in specific positions.
 	Sentence Variation: It generates a wide variety of profane sentences by permuting through the matrix, combining words to create unique outputs.
