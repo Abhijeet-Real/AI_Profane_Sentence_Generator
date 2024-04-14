@@ -1,5 +1,5 @@
 # AI_Profane_Sentence_Generator
-Efficient profane sentence generation tool using matrix templates. Easily mark profane columns and store results in Excel. Simplifying profane content creation.
+Efficient profane sentence generation tool using matrix templates.Easily read matrix from Excel & Easily mark profane columns and store results in Excel. Simplifying profane content creation.
 
 # Profane Sentence Generator
 # Why?
